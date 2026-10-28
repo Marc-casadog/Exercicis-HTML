@@ -1,0 +1,19 @@
+h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.parallax {
+    background-image: url("../img/olive-oil_1920.webp");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw; 
+    height: 20vh; 
+}
