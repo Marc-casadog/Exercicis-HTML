@@ -25,9 +25,8 @@ body {
   margin-right: auto;
 }
 
-#horizontal li:not(#logo) {
+#horizontal .icono {
   width: 12.5vw;
-  flex-shrink: 0;
 }
 
 #horizontal a {
@@ -46,7 +45,7 @@ body {
   height: 36px;
 }
 
-#horizontal li:not(#logo) img {
+#horizontal .icono img {
   width: 24px;
   height: 24px;
 }
